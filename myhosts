@@ -13,5 +13,5 @@
 [myubuntservers]
 10.0.0.5
 
-[mycentosservers
-10.0.0.6]
+[mycentosservers]
+10.0.0.6
