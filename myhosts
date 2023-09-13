@@ -22,4 +22,4 @@
 
 [mycentosservers:vars]
 mywebpackonubuntu= apache2
-mywebpackoncentos= https
+mywebpackoncentos= httpd
