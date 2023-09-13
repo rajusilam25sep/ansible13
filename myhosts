@@ -1,2 +1,17 @@
+[mywebservers]
 10.0.0.5
 10.0.0.6
+
+[myappservers]
+10.0.0.50
+10.0.0.60
+
+[myDBservers]
+10.0.0.20
+10.0.0.30
+
+[myubuntservers]
+10.0.0.5
+
+[mycentosservers
+10.0.0.6]
