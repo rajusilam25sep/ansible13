@@ -20,6 +20,6 @@
 
 
 
-[mycentosservers:vars]
+[mywebservers:vars]
 mywebpackonubuntu= apache2
 mywebpackoncentos= httpd
