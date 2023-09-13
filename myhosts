@@ -23,4 +23,4 @@
 [mywebservers:vars]
 var01= value
 mywebpackonubuntu= apache2
-mywebpackoncentos= httpdddd
+mywebpackoncentos= httpd
